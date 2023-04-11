@@ -1,5 +1,5 @@
 _          = require 'lodash'
-staticI18n = require 'static-i18n'
+staticI18n = require '@dare.me/static-i18n'
 
 module.exports = (grunt) ->
   grunt.registerMultiTask 'i18n', 'Translates static HTML', ->

@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/dare-me/grunt-i18n-static",
   "dependencies": {
-    "@dare.me/static-i18n": "^0.2.10",
+    "@dare.me/static-i18n": "^0.2.11",
     "lodash": "^4.17.21"
   }
 }

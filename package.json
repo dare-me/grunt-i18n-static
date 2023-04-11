@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/claudetech/grunt-i18n-static"
+    "url": "https://github.com/dare-me/grunt-i18n-static"
   },
   "keywords": [
     "gruntplugin",
@@ -18,11 +18,11 @@
   "author": "Daniel Perez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/claudetech/grunt-i18n-static/issues"
+    "url": "https://github.com/dare-me/grunt-i18n-static/issues"
   },
-  "homepage": "https://github.com/claudetech/grunt-i18n-static",
+  "homepage": "https://github.com/dare-me/grunt-i18n-static",
   "dependencies": {
-    "lodash": "^4.17.10",
-    "static-i18n": "^0.2.2"
+    "lodash": "^4.17.21",
+    "static-i18n": "^0.2.10"
   }
 }

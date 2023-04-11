@@ -17,7 +17,7 @@
     "internationalization"
   ],
   "files": [
-    "./tasks/static-i18n.coffee",
+    "tasks/static-i18n.js",
     "./LICENSE",
     "./README.md",
     "./yarn.lock",

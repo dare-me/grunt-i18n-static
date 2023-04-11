@@ -1,6 +1,6 @@
 {
   "name": "@dare.me/grunt-i18n-static",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "description": "Task to translate static html",
   "main": "index.js",
   "private": false,

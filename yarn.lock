@@ -2,6 +2,21 @@
 # yarn lockfile v1
 
 
+"@dare.me/static-i18n@^0.2.10":
+  version "0.2.10"
+  resolved "https://registry.yarnpkg.com/@dare.me/static-i18n/-/static-i18n-0.2.10.tgz#cd608f8fb8ccd8c3576fd82d20515f437b315934"
+  integrity sha512-I0oNE1874sWjvjzkIwti1WMQoI4AB1fcxWM9nf0xUsY3tAB9wCW9bGfr34q7eHaszG5zcW81YreUrKOPvD7POw==
+  dependencies:
+    bluebird "^3.5.1"
+    cheerio "^0.22.0"
+    fs-extra "^5.0.0"
+    glob "^7.1.2"
+    i18next "^11.2.3"
+    js-yaml "^3.10.0"
+    lodash "^4.17.5"
+    minimist "^1.1.0"
+    mocha "^5.0.1"
+
 argparse@^1.0.7:
   version "1.0.10"
   resolved "https://registry.yarnpkg.com/argparse/-/argparse-1.0.10.tgz#bcd6791ea5ae09725e17e5ad988134cd40b3d911"
@@ -359,21 +374,6 @@ safe-buffer@~5.1.0, safe-buffer@~5.1.1:
 sprintf-js@~1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
-
-static-i18n@^0.2.10:
-  version "0.2.10"
-  resolved "https://registry.yarnpkg.com/static-i18n/-/static-i18n-0.2.10.tgz#2a934626260fa53c882226afed56131573dece11"
-  integrity sha512-R7+rW6sm+y/++DxU6lZqKY5lv3APigIUZ9WTh3d4nkRWTi+SJhp9GKLzT8fUQdf34sAfrVp8ORGJ8UMkCdPbTA==
-  dependencies:
-    bluebird "^3.5.1"
-    cheerio "^0.22.0"
-    fs-extra "^5.0.0"
-    glob "^7.1.2"
-    i18next "^11.2.3"
-    js-yaml "^3.10.0"
-    lodash "^4.17.5"
-    minimist "^1.1.0"
-    mocha "^5.0.1"
 
 string_decoder@~1.1.1:
   version "1.1.1"

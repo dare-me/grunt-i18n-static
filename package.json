@@ -1,8 +1,9 @@
 {
-  "name": "grunt-i18n-static",
+  "name": "@dare.me/grunt-i18n-static",
   "version": "0.1.16",
   "description": "Task to translate static html",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,6 +16,13 @@
     "i18n",
     "internationalization"
   ],
+  "files": [
+    "./tasks/static-i18n.coffee",
+    "./LICENSE",
+    "./README.md",
+    "./yarn.lock",
+    "./package.json"
+  ],
   "author": "Daniel Perez",
   "license": "MIT",
   "bugs": {
@@ -23,6 +31,6 @@
   "homepage": "https://github.com/dare-me/grunt-i18n-static",
   "dependencies": {
     "lodash": "^4.17.21",
-    "static-i18n": "^0.2.10"
+    "@dare.me/static-i18n": "^0.2.10"
   }
 }
